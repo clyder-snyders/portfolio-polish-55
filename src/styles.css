@@ -166,10 +166,9 @@
 
 @utility text-display {
   font-family: var(--font-display);
-  font-optical-sizing: auto;
-  font-variation-settings: "opsz" 144, "SOFT" 50;
-  letter-spacing: -0.025em;
-  line-height: 0.95;
+  font-weight: 600;
+  letter-spacing: -0.035em;
+  line-height: 0.98;
 }
 
 @utility text-eyebrow {
